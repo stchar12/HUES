@@ -1,0 +1,366 @@
+/* Navigation Bar */
+
+.navtext-style {
+  font-family: Garamond;
+  font-size: 12px;
+}
+
+/* Welcome Container - All */
+
+.welcome-container {
+  height: 600px;
+  background-color: red
+}
+
+.subtitle {
+  font-family: Avenir;
+  margin-top: 100px;
+  font-size: 28px;
+  text-align: center;
+  line-height: 40px;
+}
+
+.intro-container {
+  width: 75%;
+  margin: auto;
+}
+
+/* Welcome Container - Home Page*/
+
+.welcome-content-container {
+  background: rgba(204, 204, 204, 0.5);
+  border-radius: 50px;
+}
+
+.website-title {
+  font-family: Avenir;
+  margin-top: 110px;
+  font-size: 72px;
+  text-align: center
+}
+
+/* Welcome Content - Multiple Pages */
+
+.content-title {
+  font-family: Avenir;
+  margin-top: 110px;
+  font-size: 60px;
+  text-align: center
+  /* Often used as the heading for some of the pages*/
+}
+
+/* Welcome Content - About */
+
+.onclick-content-title {
+  font-family: Avenir;
+  margin-top: 50px;
+  font-size: 60px;
+  text-align: center
+  /* This is also used for the "What is HUES?" title on the About Me page */
+}
+
+.onclick-content-subtitle {
+  font-family: Avenir;
+  font-size: 32px;
+  text-align: center;
+}
+
+.about-container-text {
+  width: 75%;
+  margin: auto;
+  margin-top: 50px;
+  height: 300px;
+  background-color: grey
+}
+
+.description-about-text {
+  font-family: Garamond;
+  font-size: 14px;
+}
+
+.about-container-image {
+  height: 300px;
+  width: 75%;
+  background-color: grey;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.about-image {
+  height: 100%;
+  width: 100%;
+}
+
+/* Secondary Content- Multiple Pages*/
+
+.secondary-content-container {
+  height: 600px;
+  background-color: yellow;
+  /* This is also used for the HUES Bio containers on the About page*/
+}
+
+.secondary-content-title {
+  font-family: Avenir;
+  margin-top: 50px;
+  font-size: 48px;
+  text-align: center
+}
+
+.secondary-content-textcontainer-size {
+  height: 50px;
+  width: 75%;
+  background-color: grey;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.secondary-content-name {
+  font-family: Garamond;
+  font-size: 18px;
+  text-align: center
+}
+
+.secondary-description-text {
+  font-family: Garamond;
+  font-size: 16px;
+  line-height: 24px;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/* Secondary Content Container - Home Page */
+
+.landing-page-title {
+  font-family: Avenir;
+  margin-top: 50px;
+  font-size: 36px;
+  text-align: center
+}
+
+.home-container-size {
+  height: 160px;
+  width: 75%;
+  background-color: grey;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.container-image-size {
+  height: 100%;
+  width: 100%;
+  border-radius: 25px;
+}
+
+.home-descriptiontext {
+  font-family: Garamond;
+  margin-top: 50px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+/* Secondary Content- About */
+
+.secondary-content-container-about {
+  height: 950px;
+  background-color: yellow;
+}
+
+.huesboard-boardtitle {
+  font-family: Avenir;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 20px
+}
+
+.huesboard-imagecontainer-size {
+  height: 260px;
+  width: 75%;
+  background-color: grey;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.huesboard-imagecontainer-size-row2 {
+  height: 260px;
+  width: 50%;
+  background-color: grey;
+  margin: auto;
+  margin-top: 20px;
+}
+
+/* HUES Board Bios */
+
+.hues-bio-image-container {
+  height: 300px;
+  width: 70%;
+  background-color: blue;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.hues-bio-text-container {
+  height: 300px;
+  width: 70%;
+  background-color: blue;
+  margin: auto;
+  margin-top: 20px;
+}
+
+/* Events Info */
+
+.secondary-container-events {
+  height: 500px;
+  background-color: yellow;
+}
+
+.event-container {
+  height: 350px;
+  width: 83.3%;
+  background-color: blue;
+  margin: auto;
+  margin-top: 20px;
+}
+
+/* Program Info*/
+
+.secondary-container-programs {
+  height: 500px;
+  background-color: yellow;
+}
+
+.program-container {
+  height: 350px;
+  width: 83.3%;
+  background-color: blue;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.programs-image-container-size {
+  height: 160px;
+  width: 75%;
+  background-color: grey;
+  margin: auto;
+  margin-top: 30px;
+}
+
+/* Meetings */
+
+.secondary-container-meetings {
+  height: 1000px;
+  background-color: yellow;
+}
+
+.meeting-image-container {
+  height: 250px;
+  width: 75%;
+  background-color: grey;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.meeting-container {
+  height: 350px;
+  width: 83.3%;
+  background-color: blue;
+  margin: auto;
+  margin-top: 20px;
+}
+
+/* Resources */
+
+.secondary-content-container-resources {
+  height: 600px;
+  background-color: yellow;
+}
+
+/* Donate */
+
+.donate-subtitle {
+  font-family: Avenir;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 20px
+  }
+
+.donate-button-text {
+  font-family: Avenir;
+  font-size: 36px;
+  height: 70px;
+  width: 25%;
+  margin-left: 35%;
+}
+
+.donate-container-size {
+  height: 160px;
+  width: 75%;
+  background-color: grey;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.donate-description-text {
+  font-family: Garamond;
+  margin-top: 50px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+/* Sign Up */
+
+.sign-up-form-container {
+  width: 50%;
+  height: 500px;
+  margin: auto;
+  margin-top: 50px;
+  background-color: blue
+}
+
+/* Contact */
+
+.contact-image-container {
+  width: 83.3%;
+  height: 400px;
+  background-color: blue;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.contact-text-container {
+  height: 400px;
+  width: 83.3%;
+  background-color: blue;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.secondary-description-text-contact {
+  font-family: Garamond;
+  font-size: 16px;
+  line-height: 24px;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+}
+
+.social-media-icon {
+  height: 60px;
+  width: 16.6%;
+  margin-top: 210px;
+  margin-left: 22.5%;
+  background-color: green;
+  display: inline-block;
+}
+
+/* Footer */
+
+.footer {
+  height: 50px
+}
+
+.footer-text {
+  text-align: center;
+  font-family: Garamond;
+}
